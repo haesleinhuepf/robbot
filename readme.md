@@ -8,7 +8,11 @@ After entering something and hitting ENTER, it will generate a Python Jupyter no
 
 ![img.png](docs/screenshot2.png)
 
-You can make use of it by installing tkinter and bia_bob. It is recommended to install them in a conda environment.
+You can make use of it by installing [tkinter](https://docs.python.org/3/library/tkinter.html) and [bia-bob](https://github.com/haesleinhuepf/bia-bob?tab=readme-ov-file#installation). It is recommended to install them in a conda environment.
+
+```
+pip install tkinter bia-bob
+```
 
 You can then create a new shortcut in this folder (replace USERNAME with your username):
 
