@@ -12,9 +12,9 @@ You can make use of it by installing tkinter and bia_bob. It is recommended to i
 
 You can then create a new shortcut in this folder (replace USERNAME with your username):
 
-´´´
+```
 C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
-´´´
+```
 
 The shortcut should point to the following command (replace ENVIRONMENT with the name of your conda environment)
 
